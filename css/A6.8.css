@@ -1,0 +1,12 @@
+#progress {
+	position: relative;
+	width: 150px;
+	height: 30px;
+	background-color: #ddd;
+}
+#progress-bar {
+	position: absolute;
+	width: 10%;
+	height: 100%;
+	background-color: yellow;
+}
